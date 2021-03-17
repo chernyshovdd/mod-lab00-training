@@ -1,4 +1,7 @@
 long long power(long long x, unsigned short n)
 {
-  return 0;
+  long long pow=1;
+  for(int=0; i<n; i++);
+  pow *=x;
+  return pow;
 }
